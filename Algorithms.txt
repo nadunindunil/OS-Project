@@ -1,0 +1,8 @@
+round robin java
+http://javahungry.blogspot.com/2013/09/round-robin-scheduling-algorithm-with-example-java-program-code.html
+
+shortest remaining time next
+http://javahungry.blogspot.com/2013/11/shortest-remaining-time-first-srt-preemptive-non-preemptive-sjf-scheduling-algorithm-with-example-java-program-code.html
+http://campuscoke.blogspot.com/2015/01/shortest-remaining-time-first-srtf-cpu.html
+
+Please add the tasks you are going to take in the project proposal.
